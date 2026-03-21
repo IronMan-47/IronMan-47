@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Adit Prasad 👋
 
-<!--
-**IronMan-47/IronMan-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at VIT Bhopal  
+💻 Interested in programming and technology  
+🚀 Currently learning problem solving and development  
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Java
+- C
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- Build strong programming fundamentals  
+- Work on real-world projects  
+- Improve problem-solving skills  
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aadit-prasad-45525530a/
