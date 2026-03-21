@@ -8,7 +8,7 @@
 ## 🔧 Skills
 - Python
 - Java
-- C C++
+- C / C++
 - MySql
 ---
 
