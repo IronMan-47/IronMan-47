@@ -18,5 +18,10 @@
 - Improve problem-solving skills 
 ---
 
+## 🌱 Currently Learning
+- Problem solving
+- Data structures (basics)
+---
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/aadit-prasad-45525530a/
