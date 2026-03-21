@@ -8,8 +8,7 @@
 ## 🔧 Skills
 - Python
 - Java
-- C
-- C++
+- C C++
 - MySql
 ---
 
@@ -17,12 +16,6 @@
 - Build strong programming fundamentals  
 - Work on real-world projects  
 - Improve problem-solving skills 
----
-
-## 🌱 Currently Learning
-- Problem solving
-- Team collaboration
-- Communication skills
 ---
 
 ## 📫 Connect with me
