@@ -24,4 +24,4 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/aadit-prasad-45525530a/
+- LinkedIn: www.linkedin.com/in/adit-prasad-45525530a
